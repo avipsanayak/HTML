@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>SUPERMARKET</title>
+<body BGCOLOR='YELLOW'>
+<p ALIGN='CENTER'><FONT COLOR='BLUE'><b><u>SUPERMARKET</p></b></u>
+<ol>
+<li>Fruits</li>
+<li>Vegetables</li>
+<li>Makeup</li>
+<li>Skincare</li>
+<li>Winter essentials/li>
+<li>Packaged foods</li>
+<li>Baking supplies</li>
+<li>Dairy</li>
+</body>
+</head>
+</html>

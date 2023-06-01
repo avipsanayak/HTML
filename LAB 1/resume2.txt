@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>RESUME</title>
+<body BGCOLOR='CYAN'>
+<h1><p ALIGN='CENTER'><b><u>RESUME</p></b></u></h1>
+<h1><p><b>AVIPSA NAYAK</p></b></h1>
+<h2><p ALIGN='RIGHT'><b>Cell:+919938842560</p></b></h2>
+<h2><p ALIGN='RIGHT'><b>Cell:+914256099388</p></b></h2>
+<h2><p ALIGN='CENTER'><u>Email:2105708@kiit.ac.in</p></u></h2>
+______________________________________________________________________________________________________________________________________________________________________________
+</head>
+</html>
